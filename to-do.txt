@@ -2,4 +2,5 @@ Conversion function needed:
 
 - Dollars to Cents
 - Gallons to Liters
-- Hourse to Minutes 
+- Hourse to Minutes
+- Feet to Intches 
